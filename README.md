@@ -1,2 +1,5 @@
 # Sbaji
-Bdjdjsj
+Sjjdos
+Dbsso
+Console writeline
+Hi
